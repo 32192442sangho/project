@@ -1,0 +1,21 @@
+href="/spec_down.php?ip=replay.fow.kr:8088&key=fJ1neETsFi0RB%2FOr5RJD00JFo7HI0CLo&id=6246114884&pf=KR"
+
+https://fow.kr/spec_down.php?ip=replay.fow.kr:8088&key=fJ1neETsFi0RB%2FOr5RJD00JFo7HI0CLo&id=6246114884&pf=KR
+R5owONx8chyINM9rGbzORS9IB6penKLR4NeOXRDbeJ38D-g
+"id": "R5owONx8chyINM9rGbzORS9IB6penKLR4NeOXRDbeJ38D-g",
+    "accountId": "GqOev0EZAlYO_WpRsrcj4w9I-8FLfVXXooeHrfQa08VRvXA",
+    "puuid": "o0mWb_9tsS7LlLvCvzrDBAYouDmq-GZPHPSUsVF-Duj6fXlAxMFusPW6sRlcIjFEHPHE0EY618PvjQ",
+    "name": "송제우",
+    "profileIconId": 5442,
+    "revisionDate": 1670242773970,
+    "summonerLevel": 442
+
+https://fow.kr/spec_down.php?ip=replay.fow.kr:8088&key=R5owONx8chyINM9rGbzORS9IB6penKLR4NeOXRDbeJ38D-g&id=6246114884&pf=KR
+
+https://fow.kr/spec_down.php?ip=replay.fow.kr:8088&key=RGAPI-1309a029-a7a2-4443-9c29-d7ff94b973a1&id=6210187169&pf=KR
+                                                                   api 키                                                                관전게임ID
+
+
+/html/body/div[5]/div[1]/div[1]/div[16]/table[2]/tbody[1]/tr[4]/td[10]/a
+
+/html/body/div[5]/div[1]/div[1]/div[16]/table[2]/tbody[1]/tr[4]/td[3]
